@@ -1,0 +1,10 @@
+pip~=23.0.1
+setuptools~=65.5.0
+fastapi
+uvicorn[standard]
+psycopg2-binary
+sqlalchemy
+alembic
+pydantic
+pytest
+pytest-asyncio
